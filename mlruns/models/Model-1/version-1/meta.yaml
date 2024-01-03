@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704311290874
+current_stage: None
+description: ''
+last_updated_timestamp: 1704311290874
+name: Model-1
+run_id: 4ac9eb49af2447e3b7c2d622a5a805f1
+run_link: ''
+source: file:///D:/DS2Testing/Deployed_Model_Creditcard/NYC-E2E-Project-MLOps/nyc-project-sample/mlruns/0/4ac9eb49af2447e3b7c2d622a5a805f1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/DS2Testing/Deployed_Model_Creditcard/NYC-E2E-Project-MLOps/nyc-project-sample/mlruns/0/4ac9eb49af2447e3b7c2d622a5a805f1/artifacts/model
+user_id: null
+version: 1
