@@ -11,7 +11,7 @@ COPY src/ /app/src/
 COPY requirements.txt /app/requirements.txt
 
 # Install any needed packages specified in requirements.t
-RUN pip install --updrade pip
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Copy files from S3 inside docker
