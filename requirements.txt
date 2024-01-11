@@ -1,5 +1,5 @@
 # external requirements and something again
-# -e .
+-e .
 fastapi
 joblib
 uvicorn
